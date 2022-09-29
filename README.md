@@ -1,6 +1,6 @@
 # Rocket-Explorer-Projeto1
 
-![preview](./.github/preview.png)
+![preview](https://joaoeduardorrocha.github.io/Rocket-Explorer-Projeto1/)
 
 >PT-BR
 
