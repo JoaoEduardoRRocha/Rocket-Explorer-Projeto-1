@@ -1,6 +1,6 @@
 # Rocket-Explorer-Projeto1
 
-![preview](https://imgur.com/aL00ymd)
+![preview](./.github/JoaoEduardoRRocha.github.io_RocketseatExplorer/Rocket-Explorer-Projeto1.png/)
 
 >PT-BR
 
