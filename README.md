@@ -18,3 +18,4 @@ First project of the Rocketseat Explorer class.
 
 - HTML
 - CSS
+- Git
