@@ -1,6 +1,6 @@
 # Rocket-Explorer-Projeto1
 
-![preview](![Screenshot_3](https://user-images.githubusercontent.com/113138169/193127028-0cbb0246-c60d-49de-86a5-05caf460d1b2.png))
+![preview](https://imgur.com/aL00ymd)
 
 >PT-BR
 
