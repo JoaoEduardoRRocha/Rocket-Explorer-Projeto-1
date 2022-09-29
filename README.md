@@ -1,6 +1,6 @@
 # Rocket-Explorer-Projeto1
 
-![preview](https://imgur.com/aL00ymd)
+![preview](./images/preview.png)
 
 >PT-BR
 
